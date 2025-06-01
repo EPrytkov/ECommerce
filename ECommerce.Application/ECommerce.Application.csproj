@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Dto\Orders\" />
+      <Folder Include="Dto\Products\" />
+      <Folder Include="Dto\Users\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ECommerce.Data\ECommerce.Data.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Mapster" Version="7.4.0" />
+    </ItemGroup>
+
+</Project>

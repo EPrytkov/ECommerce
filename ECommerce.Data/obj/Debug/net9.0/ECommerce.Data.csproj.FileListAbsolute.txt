@@ -1,0 +1,12 @@
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Data.deps.json
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Data.dll
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\bin\Debug\net9.0\ECommerce.Data.pdb
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.dll
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\refint\ECommerce.Data.dll
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ECommerce.Data.pdb
+C:\Users\user\RiderProjects\ECommerce\ECommerce.Data\obj\Debug\net9.0\ref\ECommerce.Data.dll
