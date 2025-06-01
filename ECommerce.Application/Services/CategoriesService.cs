@@ -1,7 +1,7 @@
 ﻿using ECommerce.Application.Dto.Categories;
 using ECommerce.Application.Services.Interfaces;
-using ECommerce.Data.Entities;
-using ECommerce.Data.Repositories.Interfaces;
+using ECommerce.Infrastructure.Entities;
+using ECommerce.Infrastructure.Repositories.Interfaces;
 using Mapster;
 
 namespace ECommerce.Application.Services;

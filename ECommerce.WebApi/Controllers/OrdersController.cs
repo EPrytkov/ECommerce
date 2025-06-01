@@ -6,5 +6,8 @@ namespace ECommerce.WebApi.Controllers;
 [ApiController]
 public class OrdersController : ControllerBase
 {
-    
+    public void CreateOrder()
+    {
+        
+    }
 }

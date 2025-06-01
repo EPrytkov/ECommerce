@@ -1,18 +1,12 @@
 using ECommerce.Application;
-using ECommerce.Application.Services;
-using ECommerce.Application.Services.Interfaces;
-using ECommerce.Data;
-using Microsoft.EntityFrameworkCore;
+using ECommerce.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 builder.Services.AddApplicationModule();
-builder.Services.AddDataModule();
-
-builder.Services.AddDbContext<ECommerceDbContext>(c => 
-    c.UseNpgsql(builder.Configuration.GetConnectionString("ECommerce")));
+builder.Services.AddInfrastructureModule(builder.Configuration);
 
 var app = builder.Build();
 
@@ -22,7 +16,5 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
-
 
 app.Run();

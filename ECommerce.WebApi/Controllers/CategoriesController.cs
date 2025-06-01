@@ -1,6 +1,5 @@
 ﻿using ECommerce.Application.Dto.Categories;
 using ECommerce.Application.Services.Interfaces;
-using ECommerce.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerce.WebApi.Controllers;

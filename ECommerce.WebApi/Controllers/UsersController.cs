@@ -1,5 +1,4 @@
 ﻿using ECommerce.Application.Dto.Users.Requests;
-using ECommerce.Data.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerce.WebApi.Controllers;

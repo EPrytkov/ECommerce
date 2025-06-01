@@ -1,5 +1,5 @@
 ﻿using ECommerce.Application.Dto.Categories;
-using ECommerce.Data.Entities;
+using ECommerce.Infrastructure.Entities;
 
 namespace ECommerce.Application.Services.Interfaces;
 
